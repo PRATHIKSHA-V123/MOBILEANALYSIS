@@ -1,5 +1,7 @@
 # 📱 MobileLens
 
+🔗 **Live App:** https://prathiksha-v123.shinyapps.io/MobileLens/
+
 **MobileLens** is an R Shiny app for browsing, filtering, and comparing
 mobile phone specifications and prices — built from real, named phone
 models spanning three eras: classic phones, the early smartphone era, and
